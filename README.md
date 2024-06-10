@@ -9,6 +9,8 @@ Bikeshare Project
 ### Description
 This project explores bikeshare usage patterns in major U.S. cities using Python.  It analyzes data on trips, user types, and popular times to uncover insights into how bike-sharing systems are used
 
+This interactive Python script lets you explore bikeshare data for Chicago, New York City, and Washington D.C.  Discover popular routes, peak usage times, and how user types differ across cities
+
 ### Files used
 Include the files used
 
