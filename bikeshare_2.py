@@ -11,6 +11,7 @@ days= ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 months = ['january', 'february', 'march', 'april', 'may', 'june']
 options = ['month', 'day', 'both', 'none']
 
+# User input
 def invalid_input():
     """
     Prints a message indicating invalid input.
@@ -286,6 +287,6 @@ def main():
 
         clear_console()
 
-
+# Main
 if __name__ == "__main__":
 	main()
