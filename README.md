@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project explores bikeshare usage patterns in major U.S. cities using Python.  It analyzes data on trips, user types, and popular times to uncover insights into how bike-sharing systems are used
 
 ### Files used
 Include the files used
